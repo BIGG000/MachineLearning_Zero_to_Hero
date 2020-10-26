@@ -28,8 +28,5 @@ It's a bootcamp of Machine Learning in which we practice all the types and algor
    * Predictions
    * Building a Model Package/ Deploy on the need
    
-   ## Here the Topics for Days
-   
-   * [Data-PreProscessing] (#Data-PreProscessing)
-   
-   ## Data-PreProscessing
+   ## Here the Topics for Days   
+   ## Data PreProscessing ( Day 01 )
