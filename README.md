@@ -30,6 +30,6 @@ It's a bootcamp of Machine Learning in which we practice all the types and algor
    
    ## Here the Topics for Days
    
-   * [!Data PreProscessing] (#Data PreProscessing)
+   * [Data PreProscessing] (#Data_PreProscessing)
    
    ## Data PreProscessing
