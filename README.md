@@ -18,4 +18,18 @@ It's a bootcamp of Machine Learning in which we practice all the types and algor
   ## Machine Learning Model Pipeline 
  It a very simple and easy thing to do for any Probelm to solve in ML.
   ### Step - 01:
-    * Determine the Objective of the Problem
+   * Determine the Objective of the Problem
+   * Data Gathering
+   * Data Preprocessing
+   * Data Anaylization
+   * Data Visualization
+   * Building a Machine Learning Model
+   * Model Evaluation & Optimization
+   * Predictions
+   * Building a Model Package/ Deploy on the need
+   
+   ## Here the Topics for Days
+   
+   * [Data PreProscessing] (#Data PreProscessing)
+   
+   ## Data PreProscessing
